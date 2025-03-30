@@ -1,0 +1,11 @@
+Flask
+Flask-Cors
+fastapi
+pymongo
+bcrypt
+python-dotenv
+apscheduler
+Werkzeug
+email-validator
+uvicorn
+
